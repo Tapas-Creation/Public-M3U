@@ -43,8 +43,6 @@ https://tvsen7.aynascope.net/tsn1/index.m3u8
 https://tvsen7.aynascope.net/tsn2/index.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="General",TSN 3
 https://tvsen7.aynascope.net/tsn3/index.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="General",Bein Sports 1
-https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="General",ESPN
 https://tvsen7.aynaott.com/espn/index.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="General",NFL Network
@@ -79,12 +77,8 @@ https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8
 https://tvsen6.aynaott.com/AQLYTPfXtjm5x7zj7AsM/index.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="General",BTV CTG
 https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="General",Sangeet Bangla
-https://go.skym3u.dev/live/69346/3b1f0d3d404f706d302920080f445a3e3b0f0d0e1a174b3c5d5d1d5e075e1305500f2b6d2d313708195c196c3759.m3u8?t=6167&s=edb&id=8pgc.m3u
 #EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="General",BBC News
 https://tvsen1.aynaott.com/shn6jGTk/index.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="General",DW News
-https://tvsen6.aynaott.com/Qq3s5WR2/index.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="General",CNN
 https://tvsen6.aynaott.com/cnn/index.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="General",Aljazeera News
@@ -107,10 +101,6 @@ https://tvsen6.aynaott.com/4XcqdovJzbbC9WdJA9gk/index.m3u8
 https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="General",India Today
 https://feeds.intoday.in/hltapps/api/master.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="General",Bharat Samachar
-https://tvsen3.aynaott.com/m94BZDYb/index.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="General",News 1 India
-https://tvsen6.aynaott.com/TaVfw58T/index.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="General",Sadhna Prime News
 https://tvsen3.aynaott.com/P2hjvFHV/index.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="General",Accu Weather
@@ -189,3 +179,13 @@ https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8
 https://tvsen7.aynaott.com/hbo/index.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="General",HBO 2
 https://tvsen3.aynaott.com/u3NjUrny/index.m3u8
+#EXTINF:-1 tvg-logo="https://da.gd/iAYuP" group-title="🎵Music",9X Tashan
+https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
+#EXTINF:-1 tvg-logo="https://da.gd/iAYuP" group-title="🎵Music",9X Jalwa
+https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
+#EXTINF:-1 tvg-logo="https://da.gd/iAYuP" group-title="🎵Music",9X Jhakaas
+https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
+#EXTINF:-1 group-title="🎵Music",Music Mastii
+https://live20.bozztv.com/giatvplayout7/giatv-209592/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://da.gd/iAYuP" group-title="🎵Music",YRF Music HD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
